@@ -14,12 +14,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          SHOW_PROJECTS: true
-          SHOW_LINES_OF_CODE: true
-          SHOW_LOC_CHART: true
-          LOCALE: "de"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          LOCALE: "de_AT"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_PROFILE_VIEWS: "True"
