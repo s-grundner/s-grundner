@@ -2,7 +2,7 @@
 
 <h2> Hello:wave:🏻, I'm Simon Grundner</h2>
 <img align='right' src="images/e6cb4de279254053b04e8305f4706497.gif" width="400">
-<p><em>Student at HTBLuVA Salzburg
+<p><em>Student at HTBLuVA Salzburg and aspiring Engineer
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em><br>
 Nice to Meet U 😊</p>
 <br><br><br><br><br><br>
