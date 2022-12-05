@@ -15,7 +15,7 @@ const struct smino = {
   .ask_me_about = {"Music", "Embedded SW Dev", "IoT", "Old Japanese Cars"},
   .technologies = {
     .embedded = {
-      .platforms = {"ESP32", "platform.io", "arduino"},
+      .platforms = {"ESP IDF", "platform.io", "arduino"},
       .mcu_families = {"Espressif", "Atmel", "PIC"},
     },
     .audio_engineering = {"Digital Synthesizers", "DSP Devices", "Software Sounddesign"},
