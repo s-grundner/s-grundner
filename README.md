@@ -5,3 +5,7 @@
 <p><em>Student at HTBLuVA Salzburg
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
