@@ -28,5 +28,4 @@ const struct about_me_s smino = {
 ```
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
