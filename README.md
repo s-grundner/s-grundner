@@ -5,9 +5,9 @@
 <p><em>Student at HTBLuVA Salzburg
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em><br>
 Nice to Meet U 😊</p>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
-### A little more about me...``
+### A little more about me...
 ```c
 const struct smino = {
   .pronouns = "He/Him",
