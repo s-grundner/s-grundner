@@ -12,7 +12,7 @@ Nice to Meet U 😊</p>
 const struct smino = {
   .pronouns = "He/Him",
   .code = {"C", "C++", "Java"},
-  .ask_me_about = {"Music", "Embedded SW Dev", "IoT", "Old Japanese Cars"},
+  .ask_me_about = {"Electronic Music", "Embedded SW Dev", "IoT", "Old Japanese Cars"},
   .technologies = {
     .embedded = {
       .platforms = {"ESP IDF", "platform.io", "arduino"},
