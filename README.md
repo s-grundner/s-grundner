@@ -21,7 +21,7 @@ const struct me_s smino = {
     .audio_engineering = {"Digital Synthesizers", "DSP Devices", "Software Sounddesign"},
   },
   .os = {"Arch Linux", "Windows"},
-  .current_focus = "Graduating High School",
+  .current_focus = "Graduating Secondary Tech School",
   .status = "Currently busy with school and projects",
   .hobbies = {"Skiing", "Music Production", "Designing"}
 };
