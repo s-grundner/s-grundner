@@ -28,36 +28,4 @@ const struct about_me_s smino = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 724 Contributions in the Year 2022
- > 
-> 📦 1.3 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-**I Mostly Code in C** 
-
-```text
-C                        4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-SWIG                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
-
-
-
- Last Updated on 05/12/2022 21:41:29 UTC
 <!--END_SECTION:waka-->
