@@ -16,17 +16,15 @@
  </a>
 </p>
 
----
-
-<h2 align="center">Hello:wave:🏻, I'm Simon Grundner</h2>
-<p align="center"><em>Student at HTBLuVA Salzburg and aspiring Engineer
+<h2>Hello:wave:🏻, I'm Simon Grundner</h2>
+<p><em>Student at HTBLuVA Salzburg and aspiring Engineer
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em><br>
 Nice to Meet U 😊</p>
 
 <p align="center"><img dipslay="inline-block" src="https://github-readme-stats.vercel.app/api?username=s-grundner&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight" alt="Anurag's GitHub stats" />
  <img dipslay="inline-block" width="340"src="images/e6cb4de279254053b04e8305f4706497.gif"/></p>
  
-<h2 clear="right"> A little more about me...</h2>
+<h2> A little more about me...</h2>
   
 ```c
 const struct about_me_s smino = {
@@ -46,7 +44,8 @@ const struct about_me_s smino = {
   .hobbies        = {"Skiing", "Music Production", "Designing"}
 };
  ```
- 
+
+<h2> Coding Stats </h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2033%20mins-blue)
