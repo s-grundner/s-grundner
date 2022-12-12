@@ -27,7 +27,7 @@ const struct about_me_s smino = {
 };
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-grundner&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-grundner&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2033%20mins-blue)
