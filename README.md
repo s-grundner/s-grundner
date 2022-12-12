@@ -28,20 +28,20 @@ Nice to Meet U 😊</p>
   
 ```c
 const struct about_me_s smino = {
-  .pronouns       = "He/Him",
-  .code           = {"C", "C++", "Java"},
-  .ask_me_about   = {"Electronic Music", "Embedded SW Dev", "IoT", "Old Japanese Cars"},
-  .technologies   = { 
+  .pronouns            = "He/Him",
+  .code                = {"C", "C++", "Java"},
+  .ask_me_about        = {"Electronic Music", "Embedded SW Dev", "IoT", "Old Japanese Cars"},
+  .technologies = { 
     .embedded = {
-      .platforms    = {"ESP IDF", "platform.io", "arduino"},
-      .mcu_families = {"Espressif", "Atmel", "PIC"},
+      .platforms       = {"ESP IDF", "platform.io", "arduino"},
+      .mcu_families    = {"Espressif", "Atmel", "PIC"},
     },
     .audio_engineering = {"Digital Synthesizers", "DSP Devices", "Software Sounddesign"},
   },
-  .os             = {"Arch Linux", "Windows"},
-  .current_focus  = "Graduating",
-  .status         = "Currently busy with school and projects",
-  .hobbies        = {"Skiing", "Music Production", "Designing"}
+  .os                  = {"Arch Linux", "Windows"},
+  .current_focus       = "Graduating",
+  .status              = "Currently busy with school and projects",
+  .hobbies             = {"Skiing", "Music Production", "Designing"}
 };
  ```
 
