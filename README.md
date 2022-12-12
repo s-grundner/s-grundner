@@ -1,7 +1,13 @@
 <a href="http://www.htl-salzburg.ac.at/startseite.html">
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/images/htlbla_logo_weiss.png" align="center" width="150"/>
+  <source media="(prefers-color-scheme: dark)" srcset="/images/htlbla_logo_weiss.png" width="150"/>
   <img alt="HTBLuVA Salzburg" src="/images/htlbla_logo_schwarz.png" align="center" width="150"/>
+ </picture>
+</a>
+<a href="https://s-grundner.github.io/">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/images/pages_weiss.png" width="150"/>
+  <img alt="HTBLuVA Salzburg" src="/images/pages.png" align="center" width="150"/>
  </picture>
 </a>
 
