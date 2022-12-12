@@ -1,11 +1,12 @@
 [![HTL Salzburg](https://img.shields.io/badge/HTBLuVA-Elektronik%20und%20Technische%20Informatik-8a2be2)](http://www.htl-salzburg.ac.at/startseite.html)
 
 <h2> Hello:wave:🏻, I'm Simon Grundner</h2>
-<img align='right' src="images/e6cb4de279254053b04e8305f4706497.gif" width="400">
 <p><em>Student at HTBLuVA Salzburg and aspiring Engineer
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em><br>
 Nice to Meet U 😊</p>
-<br><br><br><br><br><br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-grundner&count_private=true&show_icons=true&theme=tokyonight)
+<img align='right' src="images/e6cb4de279254053b04e8305f4706497.gif" width="360">
 
 ### A little more about me...
 ```c
@@ -26,8 +27,6 @@ const struct about_me_s smino = {
   .hobbies = {"Skiing", "Music Production", "Designing"}
 };
 ```
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-grundner&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2033%20mins-blue)
