@@ -1,6 +1,17 @@
-[![HTL Salzburg](https://img.shields.io/badge/HTBLuVA-Elektronik%20und%20Technische%20Informatik-8a2be2)](http://www.htl-salzburg.ac.at/startseite.html)
+<a href="http://www.htl-salzburg.ac.at/startseite.html">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/images/htlbla_logo_weiss.png" width="150"/>
+  <img alt="HTBLuVA Salzburg" src="/images/htlbla_logo_schwarz.png" align="center" width="150"/>
+ </picture>
+</a>
+<a href="https://s-grundner.github.io/">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/images/pages_weiss.png" width="150"/>
+  <img alt="HTBLuVA Salzburg" src="/images/pages.png" align="center" width="150"/>
+ </picture>
+</a>
 
-<h2 align="center"> Hello:wave:🏻, I'm Simon Grundner</h2>
+<h1 align="center">Hello:wave:🏻, I'm Simon Grundner</h1>
 <p align="center"><em>Student at HTBLuVA Salzburg and aspiring Engineer
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em><br>
 Nice to Meet U 😊</p>
