@@ -4,13 +4,13 @@
    <source media="(prefers-color-scheme: dark)" srcset="/images/htlbla_logo_weiss.png" height="50"/>
    <img alt="HTBLuVA Salzburg" src="/images/htlbla_logo_schwarz.png" height="50"/>
   </picture>
- </a>
+ </a> &nbsp;
  <a href="https://s-grundner.github.io/">
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="/images/pages_weiss.png" height="60"/>
    <img alt="Pages" src="/images/pages.png" height="60"/>
   </picture>
- </a>
+ </a> &nbsp;
  <a href="https://www.linkedin.com/in/simon-grundner-b0b9b8228/">
   <img alt="LinkedIn" src="/images/LinkedIn.png" height="60"/>
  </a>
