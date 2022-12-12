@@ -1,9 +1,11 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="/images/htlbla_logo_weiss.png" align="center" width="180"/>
- <img alt="HTBLuVA Salzburg" src="/images/htlbla_logo_schwarz.png" align="center" width="180"/>
-</picture>
+<a href="http://www.htl-salzburg.ac.at/startseite.html">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/images/htlbla_logo_weiss.png" align="center" width="150"/>
+  <img alt="HTBLuVA Salzburg" src="/images/htlbla_logo_schwarz.png" align="center" width="150"/>
+ </picture>
+</a>
 
-<h2 align="center"> Hello:wave:🏻, I'm Simon Grundner</h2>
+<h1 align="center">Hello:wave:🏻, I'm Simon Grundner</h1>
 <p align="center"><em>Student at HTBLuVA Salzburg and aspiring Engineer
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em><br>
 Nice to Meet U 😊</p>
