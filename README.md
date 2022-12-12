@@ -6,7 +6,7 @@
 Nice to Meet U 😊</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-grundner&count_private=true&show_icons=true&theme=tokyonight)
-<img align='right' src="images/e6cb4de279254053b04e8305f4706497.gif" width="360">
+<img align='right' src="images/e6cb4de279254053b04e8305f4706497.gif" width="340">
 
 ### A little more about me...
 ```c
