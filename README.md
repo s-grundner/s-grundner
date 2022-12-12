@@ -1,22 +1,24 @@
 <p align="center">
  <a href="http://www.htl-salzburg.ac.at/startseite.html">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="/images/htlbla_logo_weiss.png" height="50"/>
-   <img alt="HTBLuVA Salzburg" src="/images/htlbla_logo_schwarz.png" height="50"/>
+   <source media="(prefers-color-scheme: dark)" srcset="/images/htlbla_logo_weiss.png" height="45"/>
+   <img alt="HTBLuVA Salzburg" src="/images/htlbla_logo_schwarz.png" height="45"/>
   </picture>
  </a> &nbsp;
  <a href="https://s-grundner.github.io/">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="/images/pages_weiss.png" height="60"/>
-   <img alt="Pages" src="/images/pages.png" height="60"/>
+   <source media="(prefers-color-scheme: dark)" srcset="/images/pages_weiss.png" height="50"/>
+   <img alt="Pages" src="/images/pages.png" height="50"/>
   </picture>
  </a> &nbsp;
  <a href="https://www.linkedin.com/in/simon-grundner-b0b9b8228/">
-  <img alt="LinkedIn" src="/images/LinkedIn.png" height="60"/>
+  <img alt="LinkedIn" src="/images/LinkedIn.png" height="50"/>
  </a>
 </p>
 
-<h1 align="center">Hello:wave:🏻, I'm Simon Grundner</h1>
+---
+
+<h2 align="center">Hello:wave:🏻, I'm Simon Grundner</h2>
 <p align="center"><em>Student at HTBLuVA Salzburg and aspiring Engineer
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em><br>
 Nice to Meet U 😊</p>
