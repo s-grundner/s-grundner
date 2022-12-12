@@ -1,15 +1,15 @@
 [![HTL Salzburg](https://img.shields.io/badge/HTBLuVA-Elektronik%20und%20Technische%20Informatik-8a2be2)](http://www.htl-salzburg.ac.at/startseite.html)
 
-<h2> Hello:wave:🏻, I'm Simon Grundner</h2>
-<p><em>Student at HTBLuVA Salzburg and aspiring Engineer
+<h2 align="center"> Hello:wave:🏻, I'm Simon Grundner</h2>
+<p align="center"><em>Student at HTBLuVA Salzburg and aspiring Engineer
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em><br>
 Nice to Meet U 😊</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-grundner&count_private=true&show_icons=true&theme=tokyonight)
-<img align='right' clear="left" src="images/e6cb4de279254053b04e8305f4706497.gif" width="340"/>
+<p align="center"><img dipslay="inline-block" src="https://github-readme-stats.vercel.app/api?username=s-grundner&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight" alt="Anurag's GitHub stats" />
+ <img dipslay="inline-block" width="340"src="images/e6cb4de279254053b04e8305f4706497.gif"/></p>
  
 <h2 clear="right"> A little more about me...</h2>
- 
+  
 ```c
 const struct about_me_s smino = {
   .pronouns       = "He/Him",
