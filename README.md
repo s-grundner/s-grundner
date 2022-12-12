@@ -1,8 +1,8 @@
 <h2 align="center">
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="/images/htlbla_logo_weiss.png" align="left" width="90"/>
- <img alt="HTBLuVA Salzburg" src="/images/htlbla_logo_schwarz.png" align="left" width="90"/>
-</picture>
+ <source media="(prefers-color-scheme: dark)" srcset="/images/htlbla_logo_weiss.png" align="center" width="200"/>
+ <img alt="HTBLuVA Salzburg" src="/images/htlbla_logo_schwarz.png" align="center" width="200"/>
+</picture><br><br>
  Hello:wave:🏻, I'm Simon Grundner</h2>
 <p align="center"><em>Student at HTBLuVA Salzburg and aspiring Engineer
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em><br>
