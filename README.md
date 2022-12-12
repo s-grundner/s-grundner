@@ -6,9 +6,11 @@
 Nice to Meet U 😊</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-grundner&count_private=true&show_icons=true&theme=tokyonight)
-<img align='right' src="images/e6cb4de279254053b04e8305f4706497.gif" width="340">
+<img style="display: flex; word-break: break-all;" align='right' src="images/e6cb4de279254053b04e8305f4706497.gif" width="340">
 
-### A little more about me...
+
+<h2 style="display: flex; word-break: break-all;"> A little more about me...</h2>
+
 ```c
 const struct about_me_s smino = {
   .pronouns = "He/Him",
@@ -27,7 +29,8 @@ const struct about_me_s smino = {
   .hobbies = {"Skiing", "Music Production", "Designing"}
 };
 ```
-
+                                                       
+                                                       
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2033%20mins-blue)
 
