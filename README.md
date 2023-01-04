@@ -48,15 +48,15 @@ const struct about_me_s smino = {
 <h2> Coding Stats </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-149%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-146%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 29 Contributions in the Year 2023
+> 🏆 44 Contributions in the Year 2023
  > 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
@@ -66,6 +66,49 @@ const struct about_me_s smino = {
  > 
 > 🔑 4 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    86 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
+🌆 Daytime    141 commits    ███████░░░░░░░░░░░░░░░░░░   29.44% 
+🌃 Evening    110 commits    █████░░░░░░░░░░░░░░░░░░░░   22.96% 
+🌙 Night      142 commits    ███████░░░░░░░░░░░░░░░░░░   29.65%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       179 commits    █████████░░░░░░░░░░░░░░░░   37.37% 
+Tuesday      56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
+Wednesday    37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
+Thursday     59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.32% 
+Friday       33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.89% 
+Saturday     53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.06% 
+Sunday       62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.94%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+C                        8 hrs 49 mins       ███████████████████████░░   93.8% 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27% 
+C++                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21% 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
+
+🔥 Editors: 
+VS Code                  9 hrs 24 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  9 hrs 24 mins       █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -79,5 +122,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2023 00:30:49 UTC
+ Last Updated on 04/01/2023 00:29:29 UTC
 <!--END_SECTION:waka-->
