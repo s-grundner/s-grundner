@@ -29,7 +29,7 @@ Nice to meet you 😊</p>
 const struct about_me_s smino = {
   .pronouns            = "He/Him",
   .code                = {"C", "C++", "Java"},
-  .ask_me_about        = {"Electronic Music", "IoT", "Old Japanese Cars"},
+  .ask_me_about        = {"Electronic Music", "Old Japanese Cars"},
   .technologies = { 
     .embedded = {
       .platforms       = {"ESP IDF", "platform.io", "arduino"},
