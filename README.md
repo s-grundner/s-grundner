@@ -33,7 +33,7 @@ const struct about_me_s smino = {
   .technologies = { 
     .embedded = {
       .platforms       = {"ESP IDF", "platform.io", "arduino"},
-      .mcu_families    = {"Espressif", "Atmel", "PIC"},
+      .mcu_families    = {"ESP32", "Atmel", "PIC"},
     },
     .audio_engineering = {"Digital Synthesizers", "DSP Devices", "Software Sounddesign"},
   },
