@@ -92,14 +92,13 @@ Sunday                   121 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C                        0 secs              █████████████████░░░░░░░░   67.22 % 
-INI                      0 secs              ████████░░░░░░░░░░░░░░░░░   32.78 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -115,5 +114,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2023 00:27:01 UTC
+ Last Updated on 11/04/2023 00:27:58 UTC
 <!--END_SECTION:waka-->
