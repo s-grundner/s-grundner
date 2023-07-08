@@ -47,7 +47,7 @@ const struct about_me_s smino = {
 <h2> Coding Stats </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -92,13 +92,13 @@ Sunday                   133 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 47 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  47 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  47 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -114,5 +114,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2023 00:35:06 UTC
+ Last Updated on 08/07/2023 00:34:00 UTC
 <!--END_SECTION:waka-->
