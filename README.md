@@ -43,8 +43,8 @@ const struct about_me_s smino = {
     .audio_engineering = {"Digital Synthesizers", "DSP Devices", "Software Sounddesign"},
   },
   .os                  = {"Arch Linux", "Windows"},
-  .current_focus       = "Graduating",
-  .status              = "Currently busy with school and projects",
+  .current_focus       = "Fun Learning and Relaxing",
+  .status              = "Just doing Fun Projects to stay on top of myself",
   .hobbies             = {"Skiing", "Music Production", "Designing"}
 };
  ```
