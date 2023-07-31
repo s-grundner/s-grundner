@@ -1,4 +1,7 @@
 <p>
+ <a href="https://www.jku.at/">
+  <img alt="LinkedIn" src="https://www.jku.at/fileadmin/marketing/Startseite/JKU-Hauptlogo-de-schwarz-hoch.svg" height="50"/>
+ </a>
  <a href="http://www.htl-salzburg.ac.at/startseite.html">
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="/images/htlbla_logo_weiss.png" height="45"/>
