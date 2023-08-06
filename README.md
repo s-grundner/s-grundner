@@ -36,10 +36,7 @@ const struct about_me_s simon = {
   .code                = {"C", "C++", "Java"},
   .ask_me_about        = {"Electronic Music", "Old Japanese Cars"},
   .technologies = { 
-    .embedded = {
-      .platforms       = {"ESP IDF", "platform.io", "arduino"},
-      .mcu_families    = {"ESP32", "Atmel", "PIC"},
-    },
+    .mcu_platforms     = {"ESP32", "STM32", "Atmel AVR", "PIC"},
     .audio_engineering = {"Digital Synthesizers", "DSP Devices", "Software Sounddesign"},
   },
   .os                  = {"Arch Linux", "Windows"},
