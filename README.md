@@ -31,7 +31,7 @@ Nice to meet you 😊</p>
 <h2> A little more about me...</h2>
   
 ```c
-const struct about_me_s smino = {
+const struct about_me_s simon = {
   .pronouns            = "He/Him",
   .code                = {"C", "C++", "Java"},
   .ask_me_about        = {"Electronic Music", "Old Japanese Cars"},
