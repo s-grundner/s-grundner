@@ -49,7 +49,7 @@ const struct about_me_s simon = {
 <h2> Coding Stats </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -94,8 +94,9 @@ Sunday                   154 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-CSV                      1 hr 52 mins        ███████████████████████░░   92.55 % 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+CSV                      1 hr 50 mins        ███████████████████████░░   90.31 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔥 Editors: 
 VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
@@ -117,5 +118,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2023 00:25:21 UTC
+ Last Updated on 16/08/2023 00:24:31 UTC
 <!--END_SECTION:waka-->
