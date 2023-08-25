@@ -25,8 +25,6 @@
 <p><em>aspiring Engineer, HTBLuVA Salzburg EL/IT graduate
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em><br>
 Nice to meet you 😊</p>
-
-<p align="center"><img dipslay="inline-block" width="340"src="images/e6cb4de279254053b04e8305f4706497.gif"/></p>
  
 <h2> A little more about me...</h2>
   
