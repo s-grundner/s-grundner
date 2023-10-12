@@ -22,7 +22,8 @@
 </p>
 
 <h2>Hello:wave:🏻, I'm Simon Grundner</h2>
-<p><em>aspiring Engineer, HTBLuVA Salzburg EL/IT graduate
+<p><em>aspiring Engineer, HTBLuVA Salzburg EL/IT graduate<br>
+Currently enrolled at Johannes Kepler university Linz
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em><br>
 </p>
  
@@ -43,6 +44,9 @@ const struct about_me_s simon = {
   .hobbies             = {"Skiing", "Music Production", "Designing"}
 };
  ```
+
+
+
 
 <h2> Coding Stats </h2>
 
