@@ -16,7 +16,7 @@
    <img alt="Pages" src="/images/pages.png" height="50"/>
   </picture>
  </a> &nbsp;
- <a href="https://www.linkedin.com/in/simon-grundner-b0b9b8228/">
+ <a href="https://www.linkedin.com/in/simon-grundner/">
   <img alt="LinkedIn" src="/images/LinkedIn.png" height="50"/>
  </a>
 </p>
