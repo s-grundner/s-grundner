@@ -32,15 +32,15 @@ Currently enrolled at Johannes Kepler university Linz
 ```c
 const struct about_me_s simon = {
   .pronouns            = "He/Him",
-  .code                = {"C", "C++", "Java"},
+  .code                = {"C", "C++", "Java", "Python"},
   .ask_me_about        = {"Electronic Music", "Old Japanese Cars"},
   .technologies = { 
     .mcu_platforms     = {"ESP32", "STM32", "Atmel AVR", "PIC"},
     .audio_engineering = {"Digital Synthesizers", "DSP Devices", "Software Sounddesign"},
   },
   .os                  = {"Arch Linux", "Windows"},
-  .current_focus       = "Enrolling University",
-  .status              = "Just Moved",
+  .current_focus       = "Uni",
+  .status              = ":)",
   .hobbies             = {"Skiing", "Music Production", "Designing"}
 };
  ```
