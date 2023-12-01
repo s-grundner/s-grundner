@@ -27,6 +27,8 @@
 
 ---
 
+![banner](https://github.com/s-grundner/s-grundner/assets/55248627/4d393e17-cc22-4aac-a59a-1279728b936f)
+
 <h1 align="center">Hello👋, I'm Simon Grundner</h1>
 
 <p align="center">
