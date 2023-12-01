@@ -42,7 +42,7 @@
 ```c
 const struct about_me_s simon = {
   .pronouns            = "He/Him",
-  .code                = {"C", "C++", "Java", "Python"},
+  .code                = {"C", "C++", "Java", "(new to) Python"},
   .ask_me_about        = {"Electronic Music", "Old Japanese Cars"},
   .technologies = { 
     .mcu_platforms     = {"ESP32", "STM32", "Atmel AVR", "PIC"},
@@ -54,6 +54,12 @@ const struct about_me_s simon = {
   .hobbies             = {"Skiing", "Music Production", "Designing"}
 };
  ```
+<h2 align="center">Featured Projects</h2>
+
+🎹 [**Sequencer**](https://github.com/s-grundner/HWEP-Sequencer) Polyphonic Digital Sequencer with Audio and MIDI Ouput. <br/>
+🎸 [**Gitcon**](https://github.com/s-grundner/MTAP-MIDI-Guitar-Converter) Guitar to MIDI-Note Conversion Device (Diploma Thesis @ HTL Sbg). <br/>
+🚗 [**CTN-HexGauge**](https://github.com/s-grundner/CTN-HexGauge) Automotive IoT Gauge. <br/>
+🧠 [**Open-Second-Brain**](https://github.com/s-grundner/Elektronik) Accumulation of (mostly) everything I've learned so far in Electronics. <br/>
 
 <h2 align="center"> Coding Stats </h2>
 
