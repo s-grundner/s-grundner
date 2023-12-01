@@ -1,33 +1,43 @@
-<a href="https://www.jku.at/">
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="/images/jku_logo_weiss.png" height="45"/>
-   <img alt="JKU Linz" src="/images/jku_logo_schwarz.png" height="45"/>
-  </picture>
- </a> &nbsp;
- <a href="http://www.htl-salzburg.ac.at/startseite.html">
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="/images/htlbla_logo_weiss.png" height="45"/>
-   <img alt="HTBLuVA Salzburg" src="/images/htlbla_logo_schwarz.png" height="45"/>
-  </picture>
- </a> &nbsp;
- <a href="https://s-grundner.github.io/">
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="/images/pages_weiss.png" height="50"/>
-   <img alt="Pages" src="/images/pages.png" height="50"/>
-  </picture>
- </a> &nbsp;
- <a href="https://www.linkedin.com/in/simon-grundner/">
-  <img alt="LinkedIn" src="/images/LinkedIn.png" height="50"/>
- </a>
+<p align="center">
+  <a href="https://www.jku.at/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="/images/jku_logo_weiss.png" height="45"/>
+      <img alt="JKU Linz" src="/images/jku_logo_schwarz.png" height="45"/>
+    </picture>
+  </a> &nbsp;
+   
+  <a href="http://www.htl-salzburg.ac.at/startseite.html">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="/images/htlbla_logo_weiss.png" height="45"/>
+      <img alt="HTBLuVA Salzburg" src="/images/htlbla_logo_schwarz.png" height="45"/>
+    </picture>
+  </a> &nbsp;
+   
+  <a href="https://s-grundner.github.io/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="/images/pages_weiss.png" height="50"/>
+      <img alt="Pages" src="/images/pages.png" height="50"/>
+    </picture>
+  </a> &nbsp;
+  
+  <a href="https://www.linkedin.com/in/simon-grundner/">
+    <img alt="LinkedIn" src="/images/LinkedIn.png" height="70"/>
+  </a>
 </p>
 
-<h2>Hello:wave:🏻, I'm Simon Grundner</h2>
-<p><em>aspiring Engineer, HTBLuVA Salzburg EL/IT graduate<br>
-Currently enrolled at Johannes Kepler university Linz
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em><br>
+---
+
+<h2 align="center">Hello👋, I'm Simon Grundner</h2>
+
+<p align="center">
+  <em>
+    aspiring Engineer, HTBLuVA Salzburg EL/IT graduate<br>
+    Currently enrolled at Johannes Kepler university Linz
+    </a><br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+  </em><br>
 </p>
  
-<h2> A little more about me...</h2>
+<h2 align="center"> A little more about me...</h2>
   
 ```c
 const struct about_me_s simon = {
@@ -45,10 +55,7 @@ const struct about_me_s simon = {
 };
  ```
 
-
-
-
-<h2> Coding Stats </h2>
+<h2 align="center"> Coding Stats </h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2015%20mins-blue)
