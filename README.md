@@ -21,7 +21,7 @@
   </a> &nbsp;
   
   <a href="https://www.linkedin.com/in/simon-grundner/">
-    <img alt="LinkedIn" src="/images/LinkedIn.png" height="70"/>
+    <img alt="LinkedIn" src="/images/LinkedIn.png" height="50"/>
   </a>
 </p>
 
