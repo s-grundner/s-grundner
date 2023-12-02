@@ -33,8 +33,9 @@
 
 <p align="center">
   <em>
-    aspiring Engineer, HTBLuVA Salzburg EL/IT graduate<br>
-    Currently enrolled at Johannes Kepler university Linz
+   ⚡aspiring Engineer⚡<br>
+    Electronics and IT Student at Johannes Kepler University Linz. <br>
+    HTBLuVA Salzburg EL/TI graduate.
     </a><br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
   </em><br>
 </p>
@@ -58,13 +59,13 @@ const struct about_me_s simon = {
  ```
 <h2 align="center">Featured Projects</h2>
 
-🎹 [**Sequencer**](https://github.com/s-grundner/HWEP-Sequencer) Polyphonic Digital Sequencer with Audio and MIDI Ouput. <br/>
+🎹 [**Sequencer**](https://github.com/s-grundner/HWEP-Sequencer) - Digital polyphonic sequencer with audio and MIDI ouput. <br/>
 
-🎸 [**Gitcon**](https://github.com/s-grundner/MTAP-MIDI-Guitar-Converter) Guitar to MIDI-Note Conversion Device (Diploma Thesis @ HTL Sbg). <br/>
+🎸 [**Gitcon**](https://github.com/s-grundner/MTAP-MIDI-Guitar-Converter) - Guitar to MIDI-note conversion device _(Diploma Thesis @ HTL Sbg)_. <br/>
 
-🚗 [**CTN-HexGauge**](https://github.com/s-grundner/CTN-HexGauge) Automotive IoT Gauge. <br/>
+🚗 [**CTN-HexGauge**](https://github.com/s-grundner/CTN-HexGauge) - Automotive IoT gauge. <br/>
 
-🧠 [**Open-Second-Brain**](https://github.com/s-grundner/Elektronik) Accumulation of (mostly) everything I've learned so far in Electronics. <br/>
+🧠 [**Open-Second-Brain**](https://github.com/s-grundner/Elektronik) - Markdown accumulation of (mostly) everything I've learned so far in electronics. <br/>
 
 <h2 align="center"> Coding Stats </h2>
 
