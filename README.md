@@ -54,7 +54,7 @@ const struct about_me_s simon = {
   .os                  = {"Arch Linux", "Windows"},
   .current_focus       = "Uni",
   .status              = ":)",
-  .hobbies             = {"Skiing", "Music Production", "Designing"}
+  .hobbies             = {"Skiing", "Making Music", "PCB-Design"}
 };
  ```
 <h2 align="center">Featured Projects</h2>
