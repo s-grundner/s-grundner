@@ -72,7 +72,7 @@ const struct about_me_s simon = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.4%20million%20lines%20of%20code-blue)
 
@@ -141,5 +141,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/12/2023 00:27:42 UTC
+ Last Updated on 10/12/2023 00:31:28 UTC
 <!--END_SECTION:waka-->
