@@ -69,6 +69,18 @@ const struct about_me_s simon = {
 
 <h2 align="center"> Coding Stats </h2>
 
+<div align ="center"> 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-grundner&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s-grundner&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s-grundner&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=s-grundner&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s-grundner&theme=aura_dark&utcOffset=8)
+
+</div>
+
+<h2 align="center"> Waka Time </h2>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2056%20mins-blue)
 
