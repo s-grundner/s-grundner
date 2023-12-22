@@ -67,7 +67,7 @@ const struct about_me_s simon = {
 
 🧠 [**Open-Second-Brain**](https://github.com/s-grundner/Elektronik) - Markdown accumulation of (mostly) everything I've learned so far in electronics. <br/>
 
-<h2 align="center"> Coding Stats </h2>
+<h2 align="center"> Coding Stats Overview </h2>
 
 <div align ="center"> 
 
@@ -79,7 +79,7 @@ const struct about_me_s simon = {
 
 </div>
 
-<h2 align="center"> Waka Time </h2>
+<h2 align="center"> Detailed Statistics an Workflow </h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2056%20mins-blue)
