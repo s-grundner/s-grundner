@@ -79,7 +79,7 @@ const struct about_me_s simon = {
 
 </div>
 
-<h2 align="center"> Detailed Statistics an Workflow </h2>
+<h2 align="center"> Detailed Statistics and Workflow </h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2056%20mins-blue)
