@@ -65,7 +65,7 @@ const struct about_me_s simon = {
 
 🚗 [**CTN-HexGauge**](https://github.com/s-grundner/CTN-HexGauge) - Automotive IoT gauge. <br/>
 
-🧠 [**Open-Second-Brain**](https://github.com/s-grundner/Elektronik) - Markdown accumulation of (mostly) everything I've learned so far in electronics. <br/>
+🧠 [**Open-Second-Brain**](https://github.com/s-grundner/Elektronik) - Markdown accumulation of (mostly) everything I've learned so far in electronics. [🇩🇪] <br/>
 
 <h2 align="center"> Coding Stats Overview </h2>
 
