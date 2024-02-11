@@ -59,7 +59,7 @@ const struct about_me_s simon = {
  ```
 <h2 align="center">Featured Projects</h2>
 
-🎹 [**Sequencer**](https://github.com/s-grundner/HWEP-Sequencer) - Digital polyphonic sequencer with audio and MIDI ouput. <br/>
+🎹 [**Sequencer**](https://github.com/s-grundner/HWEP-Sequencer) - Digital polyphonic sequencer with audio and MIDI output. <br/>
 
 🎸 [**Gitcon**](https://github.com/s-grundner/MTAP-MIDI-Guitar-Converter) - Guitar to MIDI-note conversion device _(Diploma Thesis @ HTL Sbg)_. <br/>
 
