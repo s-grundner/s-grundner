@@ -52,7 +52,7 @@ const struct about_me_s simon = {
     .audio_engineering = {"Digital Synthesizers", "DSP Devices", "Software Sounddesign"},
   },
   .os                  = {"Arch Linux", "Windows"},
-  .current_focus       = "Uni",
+  .current_focus       = "Uni & Friends",
   .status              = ":)",
   .hobbies             = {"Skiing", "Making Music", "PCB-Design"}
 };
