@@ -82,7 +82,7 @@ const struct about_me_s simon = {
 <h2 align="center"> Detailed Statistics and Workflow </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -127,14 +127,15 @@ Sunday                   376 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JavaScript               26 mins             █████████████████░░░░░░░░   68.37 % 
-Markdown                 12 mins             ████████░░░░░░░░░░░░░░░░░   31.63 % 
+JavaScript               26 mins             ████████████░░░░░░░░░░░░░   48.62 % 
+CSS                      15 mins             ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+Markdown                 12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+VS Code                  55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -150,5 +151,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2024 00:27:57 UTC
+ Last Updated on 03/05/2024 00:28:37 UTC
 <!--END_SECTION:waka-->
