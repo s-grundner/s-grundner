@@ -27,7 +27,7 @@
 
 ---
 
-![banner](/images/banner.png)
+<img alt="Banner" src="/images/banner.png" align="canter"/>
 
 <h1 align="center">Hello👋, I'm Simon Grundner</h1>
 
