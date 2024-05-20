@@ -52,20 +52,20 @@ const struct about_me_s simon = {
     .audio_engineering = {"Digital Synthesizers", "DSP Devices", "Software Sounddesign"},
   },
   .os                  = {"Arch Linux", "Windows"},
-  .current_focus       = "Uni",
+  .current_focus       = "Uni & Friends",
   .status              = ":)",
   .hobbies             = {"Skiing", "Making Music", "PCB-Design"}
 };
  ```
 <h2 align="center">Featured Projects</h2>
 
-🎹 [**Sequencer**](https://github.com/s-grundner/HWEP-Sequencer) - Digital polyphonic sequencer with audio and MIDI ouput. <br/>
+🎹 [**Sequencer**](https://github.com/s-grundner/HWEP-Sequencer) - Digital polyphonic sequencer with audio and MIDI output. <br/>
 
 🎸 [**Gitcon**](https://github.com/s-grundner/MTAP-MIDI-Guitar-Converter) - Guitar to MIDI-note conversion device _(Diploma Thesis @ HTL Sbg)_. <br/>
 
 🚗 [**CTN-HexGauge**](https://github.com/s-grundner/CTN-HexGauge) - Automotive IoT gauge. <br/>
 
-🧠 [**Open-Second-Brain**](https://github.com/s-grundner/Elektronik) - Markdown accumulation of (mostly) everything I've learned so far in electronics. <br/>
+🧠 [**Open-Second-Brain**](https://github.com/s-grundner/Elektronik) - Markdown accumulation of (mostly) everything I've learned so far in electronics. [🇩🇪] <br/>
 
 <h2 align="center"> Coding Stats Overview </h2>
 
@@ -82,42 +82,40 @@ const struct about_me_s simon = {
 <h2 align="center"> Detailed Statistics and Workflow </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.4 MB Used in GitHub's Storage 
- > 
-> 🏆 1,630 Contributions in the Year 2023
+> 📦 2.5 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                704 commits         ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-🌆 Daytime                981 commits         █████████░░░░░░░░░░░░░░░░   37.05 % 
-🌃 Evening                539 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-🌙 Night                  424 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+🌞 Morning                791 commits         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+🌆 Daytime                1292 commits        █████████░░░░░░░░░░░░░░░░   37.06 % 
+🌃 Evening                855 commits         ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+🌙 Night                  548 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   644 commits         ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-Tuesday                  500 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Wednesday                410 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Thursday                 316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Friday                   335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Saturday                 185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Sunday                   258 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Monday                   791 commits         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Tuesday                  603 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Wednesday                575 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Thursday                 449 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Friday                   405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Saturday                 286 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Sunday                   377 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
 ```
 
 
@@ -127,27 +125,27 @@ Sunday                   258 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C                        14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
 
 ```text
-C                        8 repos             ██████████░░░░░░░░░░░░░░░   38.10 % 
-Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+C                        9 repos             ██████████░░░░░░░░░░░░░░░   39.13 % 
+Java                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 25/12/2023 00:29:01 UTC
+ Last Updated on 20/05/2024 00:30:13 UTC
 <!--END_SECTION:waka-->
