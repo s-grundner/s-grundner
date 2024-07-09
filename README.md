@@ -92,8 +92,6 @@ const struct about_me_s simon = {
 
 > 📦 2.6 MB Used in GitHub's Storage 
  > 
-> 🏆 944 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -127,13 +125,13 @@ Sunday                   389 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -149,5 +147,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2024 00:32:44 UTC
+ Last Updated on 09/07/2024 00:31:43 UTC
 <!--END_SECTION:waka-->
