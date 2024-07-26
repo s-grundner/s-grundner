@@ -82,6 +82,8 @@ const struct about_me_s simon = {
 <h2 align="center"> Detailed Statistics and Workflow </h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-416%20hrs%208%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.1%20million%20lines%20of%20code-blue)
@@ -98,6 +100,42 @@ const struct about_me_s simon = {
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                800 commits         ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+🌆 Daytime                1369 commits        █████████░░░░░░░░░░░░░░░░   37.68 % 
+🌃 Evening                898 commits         ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+🌙 Night                  566 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   813 commits         ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Tuesday                  637 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Wednesday                612 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Thursday                 465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Friday                   415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Saturday                 302 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Sunday                   389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -111,5 +149,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2024 00:31:45 UTC
+ Last Updated on 26/07/2024 00:31:40 UTC
 <!--END_SECTION:waka-->
