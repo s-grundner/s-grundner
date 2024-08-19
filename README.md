@@ -57,7 +57,7 @@ const struct about_me_s simon = {
   .hobbies             = {"Skiing", "Making Music", "PCB-Design"}
 };
  ```
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">Featured Projects 🛠</h2>
 
 🎹 [**Sequencer**](https://github.com/s-grundner/HWEP-Sequencer) - Digital polyphonic sequencer with audio and MIDI output. <br/>
 
@@ -66,6 +66,12 @@ const struct about_me_s simon = {
 🚗 [**CTN-HexGauge**](https://github.com/s-grundner/CTN-HexGauge) - Automotive IoT gauge. <br/>
 
 🧠 [**Open-Second-Brain**](https://github.com/s-grundner/Elektronik) - Markdown accumulation of (mostly) everything I've learned so far in electronics. [🇩🇪] <br/>
+
+<h2 align="center">Collaborations 🤝</h2>
+
+🎶 [**jgret : GDJ**]() - Trackmixing and managing Software 
+
+🔌 [**jgret : hardware**](https://github.com/jgret/hardware) - Several Hardware Devices (Pico-VGA, SoundControl)
 
 <h2 align="center"> Coding Stats Overview </h2>
 
