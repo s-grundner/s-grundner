@@ -69,7 +69,7 @@ const struct about_me_s simon = {
 
 <h2 align="center">Collaborations 🤝</h2>
 
-🎶 [**jgret : GDJ**]() - Trackmixing and managing Software 
+🎶 [**jgret : GDJ**](https://github.com/jgret/GDJ) - Trackmixing and managing Software 
 
 🔌 [**jgret : hardware**](https://github.com/jgret/hardware) - Several Hardware Devices (Pico-VGA, SoundControl)
 
