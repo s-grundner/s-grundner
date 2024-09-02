@@ -98,8 +98,6 @@ const struct about_me_s simon = {
 
 > 📦 2.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,036 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -155,5 +153,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2024 00:41:11 UTC
+ Last Updated on 02/09/2024 00:35:29 UTC
 <!--END_SECTION:waka-->
