@@ -88,6 +88,8 @@ const struct about_me_s simon = {
 <h2 align="center"> Detailed Statistics and Workflow </h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%2045%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.8%20million%20lines%20of%20code-blue)
@@ -96,7 +98,7 @@ const struct about_me_s simon = {
 
 > 📦 2.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,036 Contributions in the Year 2024
+> 🏆 1,038 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,6 +106,42 @@ const struct about_me_s simon = {
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                800 commits         █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+🌆 Daytime                1387 commits        █████████░░░░░░░░░░░░░░░░   37.58 % 
+🌃 Evening                947 commits         ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+🌙 Night                  557 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   799 commits         █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Tuesday                  642 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Wednesday                628 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Thursday                 478 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Friday                   421 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Saturday                 318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Sunday                   405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -117,5 +155,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2024 00:36:27 UTC
+ Last Updated on 10/09/2024 00:34:58 UTC
 <!--END_SECTION:waka-->
