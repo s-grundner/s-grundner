@@ -45,13 +45,15 @@
 ```c
 const struct about_me_s simon = {
   .pronouns            = "He/Him",
-  .code                = {"C", "(new to) C#", "Java", "Python"},
+  .code                = {"C", "VHDL", "(new to) C#", "Java", "Python"},
   .ask_me_about        = {"Electronic Music", "Old Japanese Cars"},
   .technologies = { 
-    .mcu_platforms     = {"ESP32", "STM32", "Atmel AVR", "PIC"},
+    .mcu_platforms     = {"ESP32", "STM32❤️", "Atmel AVR", "NXP"},
+    .mcu_technoligies  = {"FreeRTOS", "MCU-Specific HALs and Frameworks"},
     .audio_engineering = {"Digital Synthesizers", "DSP Devices", "Software Sounddesign"},
+    .rf_circuits       = {"RFID", "Bluetooth & WIFI Integration"},
   },
-  .os                  = {"Arch Linux", "Windows"},
+  .os                  = {"Arch Linux", "Windows 11"},
   .current_focus       = "Uni & Friends",
   .status              = ":)",
   .hobbies             = {"Skiing", "Making Music", "PCB-Design"}
