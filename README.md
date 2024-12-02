@@ -90,15 +90,17 @@ const struct about_me_s simon = {
 <h2 align="center"> Detailed Statistics and Workflow </h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2042%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.6 MB Used in GitHub's Storage 
+> 📦 2.7 MB Used in GitHub's Storage 
  > 
-> 🏆 1,678 Contributions in the Year 2024
+> 🏆 1,688 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,6 +108,47 @@ const struct about_me_s simon = {
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                864 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+🌆 Daytime                1659 commits        ██████████░░░░░░░░░░░░░░░   38.25 % 
+🌃 Evening                1151 commits        ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+🌙 Night                  663 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   860 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Tuesday                  744 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Wednesday                764 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Thursday                 607 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Friday                   483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Saturday                 389 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Sunday                   490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+VHDL                     6 hrs 50 mins       ████████████████░░░░░░░░░   63.89 % 
+Python                   1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+C                        46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Stata                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+
+🔥 Editors: 
+VS Code                  10 hrs 21 mins      ████████████████████████░   96.68 % 
+IntelliJ IDEA            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+
+💻 Operating System: 
+Windows                  10 hrs 42 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -119,5 +162,5 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 00:48:29 UTC
+ Last Updated on 02/12/2024 00:42:05 UTC
 <!--END_SECTION:waka-->
