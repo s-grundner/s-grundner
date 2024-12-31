@@ -135,15 +135,13 @@ Sunday                   494 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     5 hrs 1 min         ████████████████████████░   97.88 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 8 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 hrs 8 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -159,5 +157,5 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2024 00:39:22 UTC
+ Last Updated on 31/12/2024 00:37:58 UTC
 <!--END_SECTION:waka-->
