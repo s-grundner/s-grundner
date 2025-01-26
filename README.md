@@ -90,9 +90,9 @@ const struct about_me_s simon = {
 <h2 align="center"> Detailed Statistics and Workflow </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-569%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-570%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.0%20million%20lines%20of%20code-blue)
 
@@ -100,7 +100,7 @@ const struct about_me_s simon = {
 
 > 📦 2.7 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 168 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -135,18 +135,18 @@ Sunday                   530 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     5 hrs 4 mins        █████████████░░░░░░░░░░░░   50.45 % 
-Python                   3 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
-VHDL                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Java                     5 hrs 4 mins        ████████████░░░░░░░░░░░░░   46.04 % 
+Python                   3 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.14 % 
+VHDL                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 13 mins       █████████████░░░░░░░░░░░░   52.03 % 
-VS Code                  4 hrs 49 mins       ████████████░░░░░░░░░░░░░   47.97 % 
+VS Code                  5 hrs 47 mins       █████████████░░░░░░░░░░░░   52.53 % 
+IntelliJ IDEA            5 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.47 % 
 
 💻 Operating System: 
-Windows                  10 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -162,5 +162,5 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/01/2025 00:36:10 UTC
+ Last Updated on 26/01/2025 00:38:23 UTC
 <!--END_SECTION:waka-->
