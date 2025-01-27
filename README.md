@@ -80,10 +80,8 @@ const struct about_me_s simon = {
 <div align ="center"> 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-grundner&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s-grundner&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s-grundner&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=s-grundner&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s-grundner&theme=aura_dark&utcOffset=8)
 
 </div>
 
