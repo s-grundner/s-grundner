@@ -51,7 +51,6 @@ const struct about_me_s simon = {
     .mcu_platforms     = {"ESP32", "STM32", "Atmel AVR", "NXP"},
     .mcu_technoligies  = {"FreeRTOS", "MCU-Specific HALs and Frameworks"},
     .audio_engineering = {"Digital Synthesizers", "DSP Devices"},
-    .rf_circuits       = {"RFID", "Bluetooth & WIFI Integration"},
   },
   .os                  = {"Arch Linux", "Windows 11"},
   .current_focus       = "Uni & Friends",
