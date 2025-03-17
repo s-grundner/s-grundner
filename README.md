@@ -87,7 +87,7 @@ const struct about_me_s simon = {
 <h2 align="center"> Detailed Statistics and Workflow </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -96,8 +96,6 @@ const struct about_me_s simon = {
 **🐱 My GitHub Data** 
 
 > 📦 2.8 MB Used in GitHub's Storage 
- > 
-> 🏆 550 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -132,17 +130,15 @@ Sunday                   608 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     4 hrs 27 mins       ████████████████████████░   97.11 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-PHP                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Java                     7 hrs 14 mins       █████████████████████████   98.39 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 33 mins       █████████████████████████   99.22 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+IntelliJ IDEA            7 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -158,5 +154,5 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/03/2025 00:43:02 UTC
+ Last Updated on 17/03/2025 00:41:55 UTC
 <!--END_SECTION:waka-->
