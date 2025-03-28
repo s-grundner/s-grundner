@@ -87,8 +87,6 @@ const struct about_me_s simon = {
 <h2 align="center"> Detailed Statistics and Workflow </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-659%20hrs%207%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.3%20million%20lines%20of%20code-blue)
@@ -97,51 +95,14 @@ const struct about_me_s simon = {
 
 > 📦 2.8 MB Used in GitHub's Storage 
  > 
+> 🏆 627 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                961 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-🌆 Daytime                1992 commits        ██████████░░░░░░░░░░░░░░░   38.02 % 
-🌃 Evening                1459 commits        ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-🌙 Night                  828 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   983 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Tuesday                  899 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Wednesday                903 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Thursday                 721 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Friday                   609 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Saturday                 505 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Sunday                   620 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Java                     2 hrs 57 mins       █████████████████████████   98.48 % 
-CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-
-🔥 Editors: 
-IntelliJ IDEA            2 hrs 57 mins       █████████████████████████   98.72 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-
-💻 Operating System: 
-Windows                  3 hrs               █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -155,5 +116,5 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/03/2025 00:40:16 UTC
+ Last Updated on 28/03/2025 00:40:21 UTC
 <!--END_SECTION:waka-->
