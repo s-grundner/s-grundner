@@ -87,7 +87,7 @@ const struct about_me_s simon = {
 <h2 align="center"> Detailed Statistics and Workflow </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -97,7 +97,7 @@ const struct about_me_s simon = {
 
 > 📦 2.8 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 712 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -132,13 +132,18 @@ Sunday                   623 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     31 mins             ███████████████░░░░░░░░░░   60.06 % 
+C                        14 mins             ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+textmate                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            36 mins             █████████████████░░░░░░░░   69.58 % 
+VS Code                  15 mins             ████████░░░░░░░░░░░░░░░░░   30.42 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  52 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -154,5 +159,5 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/04/2025 00:41:33 UTC
+ Last Updated on 24/04/2025 00:41:43 UTC
 <!--END_SECTION:waka-->
