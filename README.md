@@ -45,7 +45,7 @@
 ```c
 const struct about_me_s simon = {
   .pronouns            = "He/Him",
-  .code                = ["C", "VHDL", "C#", "Java", "JS", "Python"],
+  .code                = ["C", "VHDL", "C#", "Java", "JS", "Python", "Lua"],
   .ask_me_about        = ["Electronic Music", "Old Japanese Cars"],
   .technologies = { 
     .mcu_platforms     = ["ESP32", "STM32", "Atmel AVR", "NXP"],
