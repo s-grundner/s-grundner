@@ -27,8 +27,6 @@
 
 ---
 
-<img alt="Banner" src="/images/banner.png" align="canter"/>
-
 <h1 align="center">Hello👋, I'm Simon Grundner</h1>
 
 <p align="center">
@@ -40,7 +38,7 @@
   </em><br>
 </p>
  
-<h2 align="center"> A little more about me...</h2>
+<h2 align="center"> About me...</h2>
   
 ```c
 const struct about_me_s simon = {
@@ -58,6 +56,7 @@ const struct about_me_s simon = {
   .hobbies             = ["Skiing", "Making Music", "PCB-Design"]
 };
  ```
+
 <h2 align="center">Featured Projects 🛠</h2>
 
 🎹 [**Sequencer**](https://github.com/s-grundner/HWEP-Sequencer) - Digital polyphonic sequencer with audio and MIDI output. <br/>
