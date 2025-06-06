@@ -77,13 +77,12 @@ const struct about_me_s simon = {
 
 <div align ="center"> 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-grundner&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s-grundner&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=s-grundner&theme=aura_dark)
 
 </div>
 
-<h2 align="center"> Detailed Statistics and Workflow </h2>
+---
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
