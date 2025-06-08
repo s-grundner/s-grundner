@@ -27,7 +27,7 @@
 
 ---
 
-<h1 align="center">Hello👋, I'm Simon Grundner</h1>
+<h1 align="center">Hello👋, I'm Simon</h1>
 
 <p align="center">
   <em>
