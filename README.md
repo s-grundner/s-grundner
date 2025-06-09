@@ -12,13 +12,6 @@
       <img alt="HTBLuVA Salzburg" src="/images/htlbla_logo_schwarz.png" height="45"/>
     </picture>
   </a> &nbsp;
-   
-  <a href="https://s-grundner.github.io/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="/images/pages_weiss.png" height="50"/>
-      <img alt="Pages" src="/images/pages.png" height="50"/>
-    </picture>
-  </a> &nbsp;
   
   <a href="https://www.linkedin.com/in/simon-grundner/">
     <img alt="LinkedIn" src="/images/LinkedIn.png" height="50"/>
