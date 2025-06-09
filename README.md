@@ -36,16 +36,14 @@
 ```c
 const struct about_me_s simon = {
   .pronouns            = "He/Him",
-  .code                = ["C", "VHDL", "C#", "Java", "JS", "Python", "Lua"],
-  .ask_me_about        = ["Electronic Music", "Old Japanese Cars"],
+  .code                = ["C", "VHDL", "C#", "Java", "Python", "Lua"],
   .technologies = { 
     .mcu_platforms     = ["ESP32", "STM32", "Atmel AVR", "NXP"],
     .mcu_technoligies  = ["FreeRTOS", "MCU-Specific HALs and Frameworks"],
     .audio_engineering = ["Digital Synthesizers", "DSP Devices"],
   },
-  .os                  = ["Arch Linux", "Windows 11"],
+  .os                  = ["EndeavourOS", "Windows 11"],
   .current_focus       = "Uni & Friends",
-  .status              = ":)",
   .hobbies             = ["Skiing", "Making Music", "PCB-Design"]
 };
  ```
