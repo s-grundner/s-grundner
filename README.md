@@ -24,27 +24,26 @@
 
 <p align="center">
   <em>
-   ⚡aspiring Engineer⚡<br>
+    🔧aspiring Engineer🔧<br>
     Electronics and IT Student at Johannes Kepler University Linz. <br>
     HTBLuVA Salzburg EL/TI graduate.
-    </a><br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
   </em><br>
 </p>
  
 <h2 align="center"> About me...</h2>
   
 ```c
-const struct about_me_s simon = {
-  .pronouns            = "He/Him",
-  .code                = ["C", "VHDL", "C#", "Java", "Python", "Lua"],
-  .technologies = { 
-    .mcu_platforms     = ["ESP32", "STM32", "Atmel AVR", "NXP"],
-    .mcu_technoligies  = ["FreeRTOS", "MCU-Specific HALs and Frameworks"],
-    .audio_engineering = ["Digital Synthesizers", "DSP Devices"],
-  },
-  .os                  = ["EndeavourOS", "Windows 11"],
-  .current_focus       = "Uni & Friends",
-  .hobbies             = ["Skiing", "Making Music", "PCB-Design"]
+const struct aboutMe_s simon = {
+    .pronouns     = [ "He/Him" ],
+    .code         = [ "C", "VHDL", "C#", "Java", "Python", "Lua" ],
+    .os           = [ "EndeavourOS", "Windows 11" ],
+    .currentFocus = [ "Uni & Friends" ],
+    .hobbies      = [ "Skiing", "Making Music", "PCB-Design" ],
+    .technologies = { 
+        .embeddedPlatforms    = [ "ESP32", "STM32", "Atmel AVR", "NXP" ],
+        .embeddedTechnologies = [ "FreeRTOS", "MCU-Specific HALs and Frameworks" ],
+        .audioEngineering     = [ "Digital Synthesizers", "DSP Devices" ],
+    },
 };
  ```
 
