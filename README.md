@@ -49,13 +49,13 @@ const struct aboutMe_s simon = {
 
 <h2 align="center">Featured Projects 🛠</h2>
 
+🧠 [**Open-Second-Brain**](https://github.com/s-grundner/Elektronik) - Markdown accumulation of (mostly) everything I've learned so far in electronics. [🇩🇪] <br/>
+
+🌊 [**TTSKY - MIDI Synth**](https://github.com/s-grundner/LVA-EIC-KV) - Digital MIDI Synthesizer on an ASIC for the [Tiny Tapeout](https://tinytapeout.com/) SKY25b shuttle <br/>
+
 🎹 [**Sequencer**](https://github.com/s-grundner/HWEP-Sequencer) - Digital polyphonic sequencer with audio and MIDI output. <br/>
 
 🎸 [**Gitcon**](https://github.com/s-grundner/MTAP-MIDI-Guitar-Converter) - Guitar to MIDI-note conversion device _(Diploma Thesis @ HTL Sbg)_. <br/>
-
-🚗 [**CTN-HexGauge**](https://github.com/s-grundner/CTN-HexGauge) - Automotive IoT gauge. <br/>
-
-🧠 [**Open-Second-Brain**](https://github.com/s-grundner/Elektronik) - Markdown accumulation of (mostly) everything I've learned so far in electronics. [🇩🇪] <br/>
 
 <h2 align="center">Collaborations 🤝</h2>
 
