@@ -36,7 +36,7 @@
 const struct aboutMe_s simon = {
     .pronouns     = [ "He/Him" ],
     .code         = [ "C", "VHDL", "C#", "Java", "Python", "Lua" ],
-    .os           = [ "EndeavourOS", "Windows 11" ],
+    .os           = [ "Omarchy Linux", "Windows 11" ],
     .currentFocus = [ "Uni & Friends" ],
     .hobbies      = [ "Skiing", "Making Music", "PCB-Design" ],
     .technologies = { 
