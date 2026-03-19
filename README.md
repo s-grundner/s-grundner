@@ -33,7 +33,7 @@
 <h2 align="center"> About me...</h2>
   
 ```c
-const struct aboutMe_s simon = {
+const struct aboutMe simon = {
     .pronouns     = [ "He/Him" ],
     .code         = [ "C", "VHDL", "C#", "Java", "Python", "Lua" ],
     .os           = [ "Omarchy Linux", "Windows 11" ],
