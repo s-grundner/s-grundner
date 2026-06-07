@@ -39,11 +39,11 @@ const struct aboutMe simon = {
     .os           = [ "Omarchy Linux", "Windows 11" ],
     .currentFocus = [ "Uni & Friends" ],
     .hobbies      = [ "Skiing", "Making Music", "PCB-Design" ],
-    .technologies = { 
-        .embeddedPlatforms    = [ "ESP32", "STM32", "Atmel AVR", "NXP" ],
-        .embeddedTechnologies = [ "FreeRTOS", "MCU-Specific HALs and Frameworks" ],
-        .audioEngineering     = [ "Digital Synthesizers", "DSP Devices" ],
-    },
+    .embedded = { 
+        .platforms    = [ "ESP32", "STM32", "Atmel AVR", "NXP" ],
+        .technologies = [ "FreeRTOS", "MCU-Specific HALs and Frameworks" ],
+        .audio        = [ "Digital Synthesizers", "DSP Devices" ],
+    }
 };
  ```
 
